@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eduardo",
+      "empresa": "Meet LatAm SPA",
+      "email": "eduardo18257@gmail.com",
+      "telefono": "+56942225201",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Eduardo",
+      "empresa": "Meet LatAm SPA",
+      "email": "eduardo18257@gmail.com",
+      "telefono": "+56942225201",
+      "notas": "",
+      "textarea": "Cliente recomendado por otro",
+      "id": 2
+    },
+    {
+      "nombre": "Eduardo",
+      "empresa": "Meet LatAm SPA",
+      "email": "eduardo18257@gmail.com",
+      "telefono": "+56942225201",
+      "notas": "",
+      "textarea": "Cliente recomendado por otro",
+      "id": 3
+    },
+    {
+      "nombre": "Transporte",
+      "empresa": "Meet LatAm SPA",
+      "email": "eduardo18257@gmail.com",
+      "telefono": "+56942225201",
+      "notas": "",
+      "textarea": "123123",
+      "id": 4
+    }
+  ]
+}
